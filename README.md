@@ -2,6 +2,13 @@
 
 # 🔍 Anveshak
 
+## 🤝 Team Project Contribution
+
+This project was developed as part of **Smart India Hackathon 2025** by **Team BruteForce Coders**.
+
+🔗 Original Repository:
+https://github.com/SiddharthKumar268/Anveshak
+----
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=The+Explorer+%2F+Detector;Securing+Critical+Infrastructure;AI+%2B+Blockchain+Powered;Smart+India+Hackathon+2025" alt="Typing SVG" />
 
 ### 🛡️ *Real-Time Threat Detection for Nation's Critical Security*
